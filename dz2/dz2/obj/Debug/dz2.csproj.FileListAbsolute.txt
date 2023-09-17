@@ -1,0 +1,10 @@
+C:\Users\Bila_jp56\source\repos\dz2\dz2\obj\Debug\dz2.csprojAssemblyReference.cache
+C:\Users\Bila_jp56\source\repos\dz2\dz2\obj\Debug\Clock_HM.Form1.resources
+C:\Users\Bila_jp56\source\repos\dz2\dz2\obj\Debug\dz2.Properties.Resources.resources
+C:\Users\Bila_jp56\source\repos\dz2\dz2\obj\Debug\dz2.csproj.GenerateResource.cache
+C:\Users\Bila_jp56\source\repos\dz2\dz2\obj\Debug\dz2.csproj.CoreCompileInputs.cache
+C:\Users\Bila_jp56\source\repos\dz2\dz2\bin\Debug\dz2.exe.config
+C:\Users\Bila_jp56\source\repos\dz2\dz2\bin\Debug\dz2.exe
+C:\Users\Bila_jp56\source\repos\dz2\dz2\bin\Debug\dz2.pdb
+C:\Users\Bila_jp56\source\repos\dz2\dz2\obj\Debug\dz2.exe
+C:\Users\Bila_jp56\source\repos\dz2\dz2\obj\Debug\dz2.pdb
